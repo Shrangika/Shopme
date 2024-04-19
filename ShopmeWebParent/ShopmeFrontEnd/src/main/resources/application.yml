@@ -4,7 +4,7 @@ server:
     context-path: /Shopme
 spring:
   datasource:
-    password: Shrangika@13
+    password: Shrangika
     url: jdbc:mysql://localhost:3306/shopmedb
     username: root
       
